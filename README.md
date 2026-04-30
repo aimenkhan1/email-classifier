@@ -1,5 +1,5 @@
 # ✉️ Email Classification System
-### Calder AI/ML Internship — Project 2
+
 
 A machine learning system that classifies incoming emails into one of four categories: **Inquiry**, **Complaint**, **Feedback**, or **Spam** — complete with confidence scores and a clean web UI.
 
