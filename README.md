@@ -144,4 +144,3 @@ Python 3.10 or higher recommended.
 
 ---
 
-*Built as part of the Calder AI/ML Internship selection process.*
